@@ -28,6 +28,13 @@ border-radius: 1%;
 transition: 0.5s;
 }
 
+@media only screen and (max-width: 500px) {
+    center {
+       width: 100%
+    }
+}
+
+
 .fourths:hover {
 opacity: 1;
 text-shadow: 2px 2px #E5EBF2;
