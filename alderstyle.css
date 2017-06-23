@@ -11,6 +11,12 @@ text-align: center;
 letter-spacing: 30px;
 font-size: 100px;
 }
+@media only screen and (max-width: 500px) {
+    h1 {
+        width: auto;
+    }
+}
+
 
 .fourths {
 vertical-align: top;
