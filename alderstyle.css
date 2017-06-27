@@ -36,12 +36,14 @@ transition: 0.5s;
     .fourths {
        width: 100%;
        align-self: center;
+       float: none;
     }
 
     #center {
       text-align: center;
       width: 100%;
       align-self: center;
+      float: none;
     }
 
     .accordion {
@@ -49,6 +51,7 @@ transition: 0.5s;
       text-align: center;
       clear: both;
       align-self: center;
+      float: none;
     }
 }
 
