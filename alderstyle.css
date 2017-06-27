@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
 display: grid;
 background: linear-gradient(45deg, #e2e2e2, #c1eaff);
@@ -37,7 +41,6 @@ transition: 0.5s;
 
     #center {
       width: 100%;
-
     }
 }
 
