@@ -1,9 +1,9 @@
 body {
 display: grid;
-background: linear-gradient(45deg, #E5EBF2, #F2F8FB);
-background: -webkit-linear-gradient(45deg, #E5EBF2, #F2F8FB);
-background: -o-linear-gradient(45deg, #E5EBF2, #F2F8FB);
-background: -moz-linear-gradient(45deg, #E5EBF2, #F2F8FB);
+background: linear-gradient(45deg, #e2e2e2, #c1eaff);
+background: -webkit-linear-gradient(45deg, ##e2e2e2, #c1eaff);
+background: -o-linear-gradient(45deg, #e2e2e2, #c1eaff);
+background: -moz-linear-gradient(45deg, #e2e2e2, #c1eaff);
 }
 
 h1 {
