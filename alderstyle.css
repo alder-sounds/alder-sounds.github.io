@@ -35,17 +35,20 @@ transition: 0.5s;
 @media only screen and (max-width: 500px) {
     .fourths {
        width: 100%;
+       align-self: center;
     }
 
     #center {
       text-align: center;
       width: 100%;
+      align-self: center;
     }
 
     .accordion {
       width: 100%;
       text-align: center;
       clear: both;
+      align-self: center;
     }
 }
 
