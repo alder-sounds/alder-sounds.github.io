@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-body {
+html {
 display: grid;
 background: linear-gradient(45deg, #e2e2e2, #c1eaff);
 background: -webkit-linear-gradient(45deg, ##e2e2e2, #c1eaff);
