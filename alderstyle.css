@@ -43,8 +43,8 @@ transition: 0.5s;
       text-align: center;
       width: 100%;
       align-self: center;
-      float: none;
-      margin: 100%;
+      margin-left: 1%;
+      margin-right: 1%;
     }
 
     .accordion {
