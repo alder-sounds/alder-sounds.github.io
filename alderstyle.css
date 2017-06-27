@@ -36,6 +36,12 @@ transition: 0.5s;
     .fourths {
        width: 100%;
     }
+
+    #center {
+      text-align: center;
+      width: 100%;
+
+    }
 }
 
 
