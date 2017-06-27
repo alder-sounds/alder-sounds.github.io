@@ -40,11 +40,8 @@ transition: 0.5s;
     }
 
     #center {
-      text-align: center;
       width: 100%;
-      align-self: center;
       margin-left: initial;
-      margin-right: initial;
     }
 
     .accordion {
