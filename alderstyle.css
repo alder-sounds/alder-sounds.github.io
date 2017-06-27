@@ -8,6 +8,7 @@ background: linear-gradient(45deg, #e2e2e2, #c1eaff);
 background: -webkit-linear-gradient(45deg, #e2e2e2, #c1eaff);
 background: -o-linear-gradient(45deg, #e2e2e2, #c1eaff);
 background: -moz-linear-gradient(45deg, #e2e2e2, #c1eaff);
+height: 100%;
 }
 
 h1 {
@@ -62,7 +63,7 @@ cursor: cell;
 }
 
 @media only screen and (min-width: 768px) {
-  
+
     #center {
     margin-left: 33%;
     margin-right: 33%;
