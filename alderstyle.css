@@ -44,7 +44,8 @@ transition: 0.5s;
 
     .accordion {
       width: 100%;
-
+      text-align: center;
+      clear: both;
     }
 }
 
