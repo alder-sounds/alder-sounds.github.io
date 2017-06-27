@@ -61,10 +61,13 @@ border-style: inset;
 cursor: cell;
 }
 
-#center {
-margin-left: 33%;
-margin-right: 33%;
-margin-bottom: auto;
+@media only screen and (min-width: 768px) {
+  
+    #center {
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: auto;
+    }
 }
 
 .content {
