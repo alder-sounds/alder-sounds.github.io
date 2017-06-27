@@ -40,6 +40,10 @@ transition: 0.5s;
     #center {
       text-align: center;
       width: 100%;
+    }
+
+    .accordion {
+      width: 100%;
 
     }
 }
